@@ -48,5 +48,14 @@ Logged in as intern-user in a private browser and successfully accessed and inte
 
 ->output:
 
+<img width="940" height="141" alt="Image" src="https://github.com/user-attachments/assets/80c7a4b0-bd98-4595-b870-63331460b076" />
+
+<img width="940" height="911" alt="Image" src="https://github.com/user-attachments/assets/5f7ff7a4-9c73-4ee9-96b0-5c9aee5be6bb" />
+
+<img width="940" height="937" alt="Image" src="https://github.com/user-attachments/assets/94e55d4d-7e84-4d63-a4ca-ac7263c711a0" />
+
+<img width="940" height="178" alt="Image" src="https://github.com/user-attachments/assets/aa29e42d-e61f-47ec-95e7-89ac0d43ba2b" />
+
+<img width="940" height="341" alt="Image" src="https://github.com/user-attachments/assets/901f7cf4-2793-4238-935e-a4db9c5b4d79" />
 
 
